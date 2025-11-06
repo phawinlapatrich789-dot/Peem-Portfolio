@@ -1,0 +1,20 @@
+<html>
+<head>
+      <meta charset="UTF-8">
+      <title>ผลงานของฉัน</title>
+</head>
+<body>
+     <h1>สวัสดีครับ ผมคื ภวิลพัศ รักษ์ศรีทอง</h1>
+     <p>นักศึกษาแผนกเทคโนโลยีสารสนเทศ</p>
+
+
+     <h2>ผลงานของฉัน</h2
+     <ul>
+         <li><a href="#">โปรเจกต์ที่ 1</a></li>
+         <li><a href="#">โปรเจกต์ที่ 2</a></li>
+     </ul>
+
+
+    <footer>ติดต่อ: Phawinlapatrich789@gmail.com</footer>
+</body>
+</html>
